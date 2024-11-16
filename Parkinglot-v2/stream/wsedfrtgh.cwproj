@@ -1,0 +1,25 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>hei_dt1_06_critical_0.ymap</Item>
+    <Item>hei_dt1_06_strm_0.ymap</Item>
+    <Item>parkinglot.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>fence_roof.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>dt1_06_ground1.ydr</Item>
+    <Item>fence_roof.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
